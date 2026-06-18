@@ -1,14 +1,20 @@
 # Podman Container Tools
 
-<p align="center">
-  <img src="./logos/logo_circle_podman.png" width="150" />
-  <img src="./logos/logo_circle_buildah.png" width="150" />
-  <img src="./logos/logo_circle_skopeo.png" width="150" />
+**Podman Container Tools** is a [CNCF](https://www.cncf.io/) Sandbox project that provides open source tools for building, managing, and working with OCI containers and images.
+
+## 🛠️ Our Tools
+
+<p align="left">
+  <a href="https://github.com/podman-container-tools/podman">
+    <img src="./logos/logo_circle_podman.png" alt="Podman" width="150px"/>
+  </a>
+  <a href="https://github.com/podman-container-tools/buildah">
+    <img src="./logos/logo_circle_buildah.png" alt="Buildah" width="150px"/>
+  </a>
+  <a href="https://github.com/podman-container-tools/skopeo">
+    <img src="./logos/logo_circle_skopeo.png" alt="Skopeo" width="150px"/>
+  </a>
 </p>
-
-Welcome to **Podman Container Tools** — a collection of open source tools for building, managing, and working with OCI containers and images. These projects are part of the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/).
-
-## Our Tools
 
 - **[Podman](https://github.com/podman-container-tools/podman)** - A tool for managing OCI containers and pods. Podman provides a Docker-compatible command line that operates without requiring a daemon.
 
@@ -18,7 +24,7 @@ Welcome to **Podman Container Tools** — a collection of open source tools for 
 
 - **[container-libs](https://github.com/podman-container-tools/container-libs)** - Monorepository with libraries used by the containers projects, including common, storage, and image libraries.
 
-## Community
+## 👩‍💻 Community
 
 We're a community-driven project and welcome your participation!
 
@@ -43,6 +49,6 @@ To get started:
 2. Read the contributing guidelines for that project
 3. Join our community channels to connect with maintainers and other contributors
 
-## Security
+## 🔐 Security
 
 If you discover a security vulnerability, please refer to our [Security and Disclosure Policy](https://github.com/podman-container-tools/container-libs/blob/main/SECURITY.md) for reporting procedures.
